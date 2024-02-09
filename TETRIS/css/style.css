@@ -1,0 +1,200 @@
+body{
+	background: #000;
+}
+#difficulty{
+	display: block !important;
+}
+span#speed {
+    position: absolute;
+    top: -70px;
+    left: -630px;
+    width: 50px !important;
+    height: 458px;
+    border: 2px solid #0000AA;
+}
+div#pst_rlt_cs {
+    position: relative;
+    display: inline-block;
+}
+span#speed span.bottom {}
+
+span#speed span.button {
+    display: block;
+    font-size: 20px;
+    margin: 17px 0;
+    color: #89572F !important;
+    font-weight: bolder;
+    padding: 0;
+    margin-top: -7px;
+}
+
+span#speed span.button.on {
+    color: #fff;
+    font-size: 40px !important;
+    padding: 0;
+}
+span#pit {}
+
+div#difficulty {
+    position: absolute;
+    top: 22%;
+    right: -22%;
+    border: 2px solid #0000AA;
+    width: 150px;
+    height: 400px;
+}
+
+div#difficulty span {
+    display: inline-block;
+    font-size: 12px;
+    width: 80%;
+}
+div#difficulty span.button {
+	color: #00AA00;
+}
+div#difficulty span.button.on {
+    color: #00AA00;
+    font-size: 20px;
+}
+span#pieces {
+    border: 2px solid #0000AA;
+    box-sizing: border-box;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+span#pit {
+    border: 2px solid #0000AA;
+    margin-top: 0px;
+}
+
+span#rotSpeed {
+    border: 2px solid #0000AA;
+    margin-top: 3px;
+}
+span#sped_label_label {
+    font-size: 15px !important;
+    border-bottom: 3px solid #0000AA;
+    padding-bottom: 3px;
+    width: 100% !important;
+}
+div#score {
+	position: absolute;
+	top: 26%;
+	right: -18.5%;
+	font-size: 30px;
+	width: 116px;
+	border: 2px solid #0000AA;
+	font-family: sans-serif;
+	color: #00AA00;
+	padding-right: 2px;
+	display: block !important;
+}
+#score_label{
+	right: -22%;
+	position: absolute;
+	top: 23%;
+	font-size: 13px;
+	width: 156px;
+	text-transform: uppercase;
+	color:  #ADD8E6;
+}
+div#over {
+    display: inline-block;
+    width: 40%;
+}
+span.pit_label_text {
+    margin-top: 12px;
+    margin-bottom: 3px;
+    font-size: 12px !important;
+    font-family: inherit;
+    letter-spacing: 3px;
+    color:  #ADD8E6;
+}
+span.speed_label_text {
+    margin-top: 66px;
+    font-size: 15px !important;
+    letter-spacing: 2px;
+    color: #ADD8E6;
+}
+
+span#keys {
+    border: 2px solid #0000AA;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+
+span.pieces_label_text {
+    margin-top: 15px;
+    color:  #ADD8E6;
+    font-size: 12px !important;
+    letter-spacing: 3px;
+}
+span#pit span.button {
+    color: #89572F;
+}
+
+span#pieces span.button {
+    color: #89572F;
+    font-size: 16px;
+    width: 100%;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+span#pieces span.button.on {
+    color: #89572F;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+span#pit span.button.on {
+    color: #89572F;
+}
+span#sped_label_label {
+    font-size: 10px !important;
+    color: #ADD8E6;
+    font-weight: bolder;
+}
+.game-logo-cs {
+    position: absolute;
+    top: 10%;
+    right: -22%;
+}
+
+.game-logo-cs img {
+    width: 166px;
+}
+div#getGamerName {
+    width: 40%;
+}
+span#speed_label_details {
+    width: 102% !important;
+    padding: 0;
+    margin: 0;
+}
+span#rotSpeed span.button {
+    color: #00AA00;
+    text-transform: uppercase;
+}
+span#keys span.button {
+    font-size: 15px;
+    padding: 3px 0;
+}
+div#column {
+    position: absolute;
+    left: -36px;
+    height: 186px;
+    border: 2px solid #00AA00;
+    bottom: 96.3%;
+    border-top: 0;
+    border-bottom: 4px solid #00AA00;
+}
+
+canvas#screen2 {
+    padding: 3px;
+    margin-left: -3.5px;
+    width: 16.5px;
+    margin-top: -20px;
+}
