@@ -19,7 +19,7 @@ Para utilizar este repositorio, puedes seguir estos pasos:
    ```bash
    git clone https://github.com/tu_usuario/tu_repositorio.git
 
-##Recursos Adicionales 📚
+## Recursos Adicionales 📚
 Aquí hay algunos recursos adicionales que pueden ser útiles mientras trabajas en proyectos y ejercicios en AWS:
 
 Documentación oficial de AWS: La documentación oficial de AWS proporciona una referencia completa para todos los servicios y características de AWS.
