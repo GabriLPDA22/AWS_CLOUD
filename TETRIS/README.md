@@ -23,4 +23,5 @@ Master of Science in Engineering Physics   👨‍🔬
 
 
 
-## https://github.com/santos-pardos/Hands-On-Lab-in-AWS/tree/main/Projects/FullStack-R53-CF-S3-ALB-EC2-V2
+### Explicacion
+- https://github.com/santos-pardos/Hands-On-Lab-in-AWS/tree/main/Projects/FullStack-R53-CF-S3-ALB-EC2-V2
