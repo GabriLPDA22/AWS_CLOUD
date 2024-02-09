@@ -22,8 +22,8 @@ Para utilizar este repositorio, puedes seguir estos pasos:
 ## Recursos Adicionales 📚
 Aquí hay algunos recursos adicionales que pueden ser útiles mientras trabajas en proyectos y ejercicios en AWS:
 
-# Documentación oficial de AWS: La documentación oficial de AWS proporciona una referencia completa para todos los servicios y características de AWS.
+### Documentación oficial de AWS: La documentación oficial de AWS proporciona una referencia completa para todos los servicios y características de AWS.
 
-# AWS Training and Certification: Ofrece una variedad de cursos y recursos de formación para aprender sobre AWS.
+### AWS Training and Certification: Ofrece una variedad de cursos y recursos de formación para aprender sobre AWS.
 
-# AWS Well-Architected Framework: Proporciona las mejores prácticas y recomendaciones para diseñar y operar arquitecturas en la nube de manera eficiente y segura.
+### AWS Well-Architected Framework: Proporciona las mejores prácticas y recomendaciones para diseñar y operar arquitecturas en la nube de manera eficiente y segura.
