@@ -1,27 +1,26 @@
-# BlockOut for Browser in JavaScript and HTML5  
+# Remake del Tetris en 3D "BlockOut" de 1989 🕹️
 
-Este es un remake del Tetris en 3D "BlockOut" de 1989. <br>
-No lo escribí, solo hice algunas modificaciones.  
-El original se encuentra en [Chrome Experiments](http://www.chromeexperiments.com/detail/cubeout/?f=) y fue realizado por [alteredq](https://github.com/alteredq).
+¡Este es un remake del clásico Tetris en 3D "BlockOut" de 1989! 👾 No fui yo quien lo escribió, solo hice algunas modificaciones. El original se encuentra en [Chrome Experiments](http://www.chromeexperiments.com/detail/cubeout/?f=) y fue realizado por [alteredq](https://github.com/alteredq).
 
-La animación puede ser un poco entrecortada ocasionalmente, pero todo se comporta como debería. <br>
+La animación puede ser un poco entrecortada ocasionalmente, pero todo se comporta como debería. 🔄
 
-Intentaré hacer que se vea y funcione como el BlockOut original de 1989.  <br>
+Intentaré hacer que se vea y funcione como el BlockOut original de 1989. ¡Vamos por la nostalgia! 🎮
 
 Saludos,  
-Master of Science in Engineering Physics   <br> 
+Master of Science in Engineering Physics   👨‍🔬 
 [GameReality](https://gamereality.se/)
 
-Play it on my server with cookie and SQL scoreboard: [BlockOut](https://blockout.nu) <br>
-<br>
-<br>
-<br>
-_______________________________________________________________
-Solo con scoreboard de cookie:  <br>
-  jlivingstonsg     [CubeOut](https://jlivingstonsg.github.io/BlockOut/)       <br>
-  woshik            [CubeOut](https://woshik.github.io/cube-game/)       <br>
-  sami-23           [CubeOut](https://sami-23.github.io/BlockOut/) <br>
-  bhargavgohil      [CubeOut](https://bhargavgohil.github.io/)    <br>
-  rajatmadaan786    [CubeOut](  https://rajatmadaan786.github.io/blockout/)    <br>
+¡Juega en mi servidor con marcador de cookies y SQL! [BlockOut](https://blockout.nu) 🌐
+
+---
+
+### Solo con marcador de cookies: 🍪
+- jlivingstonsg     [CubeOut](https://jlivingstonsg.github.io/BlockOut/)       🕹️
+- woshik            [CubeOut](https://woshik.github.io/cube-game/)       🕹️
+- sami-23           [CubeOut](https://sami-23.github.io/BlockOut/) 🕹️
+- bhargavgohil      [CubeOut](https://bhargavgohil.github.io/)    🕹️
+- rajatmadaan786    [CubeOut](  https://rajatmadaan786.github.io/blockout/)    🕹️
 
 
+
+## https://github.com/santos-pardos/Hands-On-Lab-in-AWS/tree/main/Projects/FullStack-R53-CF-S3-ALB-EC2-V2
