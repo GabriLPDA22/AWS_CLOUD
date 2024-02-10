@@ -26,8 +26,8 @@ El servicio de S3 se emplea para almacenar contenido estático y es la base de m
   ]
 }
 
-CloudFront 🌐
-CloudFront distribuye nuestro sitio web de manera eficiente y segura. La siguiente es una política de ejemplo para configurar CloudFront:
+## CloudFront 🌐
+### CloudFront distribuye nuestro sitio web de manera eficiente y segura. La siguiente es una política de ejemplo para configurar CloudFront:
 
 {
   "Version": "2008-10-17",
@@ -50,8 +50,8 @@ CloudFront distribuye nuestro sitio web de manera eficiente y segura. La siguien
   ]
 }
 
-EC2 💻
-EC2 es el músculo detrás de nuestra aplicación. Configuramos un Grupo de Seguridad para permitir tráfico en el puerto 80. Aquí un script para empezar:
+## EC2 💻
+###  EC2 es el músculo detrás de nuestra aplicación. Configuramos un Grupo de Seguridad para permitir tráfico en el puerto 80. Aquí un script para empezar:
 
 #!/bin/bash
 dnf update -y
