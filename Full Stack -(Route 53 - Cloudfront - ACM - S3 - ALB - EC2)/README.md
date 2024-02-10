@@ -26,7 +26,7 @@ El servicio de S3 se emplea para almacenar contenido estático y es la base de m
   ]
 }
 
-###CloudFront 🌐
+### CloudFront 🌐
 CloudFront distribuye nuestro sitio web de manera eficiente y segura. La siguiente es una política de ejemplo para configurar CloudFront:
 
 {
@@ -50,7 +50,7 @@ CloudFront distribuye nuestro sitio web de manera eficiente y segura. La siguien
   ]
 }
 
-###EC2 💻
+### EC2 💻
 EC2 es el músculo detrás de nuestra aplicación. Configuramos un Grupo de Seguridad para permitir tráfico en el puerto 80. Aquí un script para empezar:
 
 #!/bin/bash
@@ -62,7 +62,7 @@ docker pull santosderek/spjuiceshop
 docker run -d -p 80:3000 santosderek/spjuiceshop
 
 
-##Video Tutorial 📺
+## Video Tutorial 📺
 He aquí los enlaces a tutoriales paso a paso que te ayudarán a poner en marcha tu proyecto:
 
 - [Instalar un sitio web estático con S3](https://youtu.be/4bxVDFwqd5o)
