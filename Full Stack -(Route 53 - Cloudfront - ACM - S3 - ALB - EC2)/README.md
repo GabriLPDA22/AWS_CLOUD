@@ -73,5 +73,5 @@ docker run -d -p 80:3000 santosderek/spjuiceshop
 
 Para más información y un tutorial paso a paso, visita los siguientes enlaces:
 
-- [Instalar un sitio web estático con S3](https://youtu.be/xxNahu0btIk)
+- [Instalar un sitio web estático con S3]([https://youtu.be/xxNahu0btIk](https://youtu.be/4bxVDFwqd5o))
 - [Configurar EC2 y ALB](https://youtu.be/4bxDFvqd5o)
