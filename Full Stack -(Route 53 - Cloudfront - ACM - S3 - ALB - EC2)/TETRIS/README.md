@@ -22,6 +22,3 @@ Master of Science in Engineering Physics   👨‍🔬
 - rajatmadaan786    [CubeOut](  https://rajatmadaan786.github.io/blockout/)    🕹️
 
 
-
-### Explicacion
-- https://github.com/santos-pardos/Hands-On-Lab-in-AWS/tree/main/Projects/FullStack-R53-CF-S3-ALB-EC2-V2
