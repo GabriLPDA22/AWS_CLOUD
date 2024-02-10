@@ -72,5 +72,8 @@ He aquí los enlaces a tutoriales paso a paso que te ayudarán a poner en marcha
 - [Instalar un sitio web estático con S3](https://youtu.be/4bxVDFwqd5o)
 - [Configurar EC2 y ALB](https://youtu.be/4bxDFvqd5o)
 
+  ## Pagina alojada
+- [Tetris](./TETRIS)
+
 
 ## Hecho con ❤️ y ☕ por [Gabrriel Saiz]. Gracias a el Material de este Crak https://github.com/santos-pardos
