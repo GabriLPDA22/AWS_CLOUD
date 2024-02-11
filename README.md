@@ -28,13 +28,12 @@ A lo largo de mis proyectos, he trabajado con una amplia gama de servicios de AW
 - AWS Certificate Manager (ACM): Gestiona fácilmente los certificados SSL/TLS en AWS.
 - Application Load Balancer (ALB): Distribuye automáticamente el tráfico de aplicaciones entrante a múltiples destinos.
 
-
+Estoy explorando activamente más servicios y herramientas, con un interés particular en la orquestación de contenedores y microservicios con Kubernetes.
 
 ![Amazon EC2](/aws-icons/EC2.svg) ![Amazon S3](/aws-icons/S3.svg) ![Amazon RDS](/aws-icons/RDS.svg) ![Amazon DynamoDB](/aws-icons/DynamoDB.svg) ![AWS Lambsa](/aws-icons/Lambda.svg)
 
 ![Amazon API Gateway](/aws-icons/API.svg)  ![AWS CloudFormation](/aws-icons/CloudFront.svg) ![Amazo VPC](/aws-icons/VPC.svg) ![Route 53](/aws-icons/Route53.svg) ![AWS Certificate Manager](/aws-icons/Amplify.svg)
  
-Estoy explorando activamente más servicios y herramientas, con un interés particular en la orquestación de contenedores y microservicios con Kubernetes.
 
 ## Uso 🛠️
 
