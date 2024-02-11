@@ -6,10 +6,30 @@ Este repositorio contiene una variedad de ejercicios y proyectos relacionados co
 
 El repositorio incluirá una variedad de ejercicios y proyectos, que pueden incluir, entre otros:
 
-- Scripts de automatización utilizando servicios como AWS Lambda, AWS CLI o AWS SDKs.
-- Configuraciones de infraestructura como código (IaC) utilizando AWS CloudFormation o AWS CDK.
-- Proyectos de desarrollo de aplicaciones web, móviles o de servidor que utilizan servicios de AWS como Amazon S3, Amazon DynamoDB, Amazon RDS, Amazon API Gateway, entre otros.
-- Ejercicios de integración y desarrollo utilizando servicios de computación, almacenamiento, base de datos, redes, IA/ML y más.
+- Scripts de Automatización: Utilizando AWS Lambda para ejecutar código en respuesta a eventos, y AWS SDKs para interactuar con los servicios de AWS desde aplicaciones.
+- Infraestructura como Código (IaC): Configuraciones utilizando AWS CloudFormation para la creación y gestión de recursos de AWS de forma programática.
+- Desarrollo de Aplicaciones: Proyectos que utilizan Amazon S3 para almacenamiento de objetos, Amazon DynamoDB como base de datos NoSQL, Amazon RDS para gestión de bases de datos relacionales, y Amazon API Gateway para crear APIs escalables.
+- Ejercicios de Integración y Desarrollo: Explorando servicios de AWS en áreas de computación, almacenamiento, base de datos, y redes.
+
+
+## Servicios Utilizados 🌐
+
+A lo largo de mis proyectos, he trabajado con una amplia gama de servicios de AWS, incluyendo pero no limitado a:
+
+- Amazon EC2: Servicio de computación en la nube para ejecutar aplicaciones en servidores virtuales.
+- Amazon S3: Almacenamiento de objetos para cualquier volumen de datos y cualquier tipo de contenido.
+- Amazon RDS: Servicio de bases de datos relacionales para operaciones de bases de datos simplificadas y escalables.
+- Amazon DynamoDB: Base de datos NoSQL rápida y flexible para todas las aplicaciones que necesitan latencias de milisegundos de un solo dígito.
+- AWS Lambda: Ejecuta código en respuesta a eventos en una arquitectura sin servidor.
+- Amazon API Gateway: Crea, publica, mantiene, monitoriza y asegura APIs a cualquier escala.
+- AWS CloudFormation: Servicio de IaC para modelar y configurar tus recursos de AWS de forma segura y eficiente.
+- Amazon VPC: Aísla tus recursos de la nube dentro de una red virtual privada.
+- Route 53: Servicio DNS web escalable y altamente disponible.
+- AWS Certificate Manager (ACM): Gestiona fácilmente los certificados SSL/TLS en AWS.
+- Application Load Balancer (ALB): Distribuye automáticamente el tráfico de aplicaciones entrante a múltiples destinos.
+
+Estoy explorando activamente más servicios y herramientas, con un interés particular en la orquestación de contenedores y microservicios con Kubernetes.
+
 
 ## Uso 🛠️
 
