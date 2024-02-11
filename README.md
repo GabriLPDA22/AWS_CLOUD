@@ -30,7 +30,7 @@ A lo largo de mis proyectos, he trabajado con una amplia gama de servicios de AW
 
 
 
-![Amazon EC2](/aws-icons/EC2.svg) ![Amazon S3](/aws-icons/S3.png) ![Amazon RDS](/aws-icons/RDS.svg) ![Amazon DynamoDB](/aws-icons/DynamoDB.svg) ![AWS Lambsa](/aws-icons/Lambda.svg)
+![Amazon EC2](/aws-icons/EC2.svg) ![Amazon S3](/aws-icons/S3.svg) ![Amazon RDS](/aws-icons/RDS.svg) ![Amazon DynamoDB](/aws-icons/DynamoDB.svg) ![AWS Lambsa](/aws-icons/Lambda.svg)
 
 ![Amazon API Gateway](/aws-icons/API.svg)  ![AWS CloudFormation](/aws-icons/CloudFront.svg) ![Amazo VPC](/aws-icons/VPC.svg) ![Route 53](/aws-icons/Route53.svg) ![AWS Certificate Manager](/aws-icons/Amplify.svg)
  
