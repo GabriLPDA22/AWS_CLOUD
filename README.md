@@ -17,19 +17,29 @@ El repositorio incluirá una variedad de ejercicios y proyectos, que pueden incl
 A lo largo de mis proyectos, he trabajado con una amplia gama de servicios de AWS, incluyendo pero no limitado a:
 
 - Amazon EC2: Servicio de computación en la nube para ejecutar aplicaciones en servidores virtuales.
+![Amazon EC2](/aws-icons/EC2.svg)
 - Amazon S3: Almacenamiento de objetos para cualquier volumen de datos y cualquier tipo de contenido.
+![Amazon S3](/aws-icons/Simple Storage Service.png)
 - Amazon RDS: Servicio de bases de datos relacionales para operaciones de bases de datos simplificadas y escalables.
+![Amazon RDS](/aws-icons/RDS.svg)
 - Amazon DynamoDB: Base de datos NoSQL rápida y flexible para todas las aplicaciones que necesitan latencias de milisegundos de un solo dígito.
+![Amazon DynamoDB](/aws-icons/DynamoDB.svg)
 - AWS Lambda: Ejecuta código en respuesta a eventos en una arquitectura sin servidor.
+![AWS Lambsa](/aws-icons/Lambda.svg)
 - Amazon API Gateway: Crea, publica, mantiene, monitoriza y asegura APIs a cualquier escala.
+![Amazon API Gateway](/aws-icons/API Gateway.svg)
 - AWS CloudFormation: Servicio de IaC para modelar y configurar tus recursos de AWS de forma segura y eficiente.
+![AWS CloudFormation](/aws-icons/CloudFront.svg)
 - Amazon VPC: Aísla tus recursos de la nube dentro de una red virtual privada.
+![Amazo VPC](/aws-icons/VPC Lattice.svg)
 - Route 53: Servicio DNS web escalable y altamente disponible.
+![Route 53](/aws-icons/Route 53.svg)
 - AWS Certificate Manager (ACM): Gestiona fácilmente los certificados SSL/TLS en AWS.
+![AWS Certificate Manager](/aws-icons/Amplify.svg)
 - Application Load Balancer (ALB): Distribuye automáticamente el tráfico de aplicaciones entrante a múltiples destinos.
 
-Estoy explorando activamente más servicios y herramientas, con un interés particular en la orquestación de contenedores y microservicios con Kubernetes.
 
+Estoy explorando activamente más servicios y herramientas, con un interés particular en la orquestación de contenedores y microservicios con Kubernetes.
 
 ## Uso 🛠️
 
